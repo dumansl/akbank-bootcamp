@@ -13,7 +13,7 @@
 :sparkles: Seçilen ürünlerin toplam fiyatını hesapladıktan sonra kullanıcıdan isim, TC kimlik numarası, kredi kartı numarası ve kredi kartı şifresi istemektedir.
 <br />
 <br />
-:sparkles: Kullanıcı bütün bilgileri verdikten sonra terminal sipariş özetini çıktı verir ve kullanıcıdan alınan bilgiler database 'e yansır.
+:sparkles: Kullanıcı bütün bilgileri verdikten sonra terminal sipariş özetini çıktı verir ve kullanıcıdan alınan bilgiler database 'e yansıtır.
 
 
 
